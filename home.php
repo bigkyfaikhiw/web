@@ -1,5 +1,5 @@
 ﻿<?php
 bigky sua code
-echo "buk na ma";
+echo "hello";
 keo sua
 ?>
