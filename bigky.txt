@@ -1,1 +1,4 @@
 bigky sua code
+<?php
+	echo ="hello";
+?>
